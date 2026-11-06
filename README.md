@@ -1,11 +1,5 @@
 # 🎮 Auditoría de Seguridad GameDev: Explotación de Lógica Cliente-Servidor en HD Admin
 
-<p align="center">
-  <img src="https://shields.io" alt="Categoría">
-  <img src="https://shields.io" alt="Entorno">
-  <img src="https://shields.io" alt="Analista">
-</p>
-
 ---
 
 ## 📌 1. Resumen Ejecutivo
